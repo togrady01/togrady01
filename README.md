@@ -4,8 +4,8 @@
 - 📫 You can reach me at togrady01@gmail.com
 - View my CV at www.tomogrady.com
 
-What I am working on / project ideas:
-[X] Vanilla JS Notes App
-[X] React Notes App
-[ ] Kitchen cabinets inventory app (React + TS + UI kit)
-[ ] Complete the Odin Project
+What I am working on / project ideas:  
+- [X] Vanilla JS Notes App  
+- [X] React Notes App  
+- [ ] Kitchen cabinets inventory app (React + TS + UI kit)  
+- [ ] Complete the Odin Project  
