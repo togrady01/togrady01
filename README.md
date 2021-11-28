@@ -7,6 +7,7 @@
 What I am working on / project ideas:  
 - [X] Vanilla JS Notes App  
 - [X] React Notes App  
+- [ ] Mirror Financial Tracking app (similar to YNAB)
 - [ ] Kitchen cabinets inventory app (React + TS + UI kit)  
 - [ ] When did I do that? App
 - [ ] Complete the Odin Project  
